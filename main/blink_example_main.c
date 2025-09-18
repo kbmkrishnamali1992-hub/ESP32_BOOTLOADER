@@ -14,7 +14,7 @@
 
 #define WIFI_SSID      "KRISHNA"
 #define WIFI_PASS      "12345678"
-#define FIRMWARE_URL   "https://raw.githubusercontent.com/kbmkrishnamali1992-hub/ESP32_TRACKER_V1/main/firmware.bin"
+#define FIRMWARE_URL   "https://raw.githubusercontent.com/kbmkrishnamali1992-hub/ESP32_BOOTLOADER/main/build/ESP32_OTA1.bin"
 #define BOOT_PIN       GPIO_NUM_13
 
 static const char *TAG = "OTA_APP";
