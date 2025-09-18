@@ -155,7 +155,7 @@ void app_main_task(void *pvParameter)
     
     // Your main application code here
     while (1) {
-        ESP_LOGI(TAG, "Application running normally...");
+        ESP_LOGI(TAG, "UPDATED APPLICATION");
         vTaskDelay(5000 / portTICK_PERIOD_MS);
     }
 }
