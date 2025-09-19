@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "ESP32_OTA1",
-    "project_version":    "873934e-dirty",
+    "project_version":    "418c4ad-dirty",
     "project_path":       "C:/Users/skoeg/ESP32_OTA1",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.3.1",
     "build_dir":          "C:/Users/skoeg/ESP32_OTA1/build",
